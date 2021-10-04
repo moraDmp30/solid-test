@@ -1,4 +1,4 @@
-# Spotahome Technical Exercise
+# Solid Technical Exercise
 
 ## Application
  
